@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "tojs": "tsc -p tsconfig.json"
+  },
   "devDependencies": {
     "typescript": "^4.8.4"
   }
