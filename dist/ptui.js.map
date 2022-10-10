@@ -1,1 +1,1 @@
-{"version":3,"file":"ptui.js","sourceRoot":"","sources":["../src/ptui.ts"],"names":[],"mappings":";;;AAAA,MAAa,IAAI;IACb,GAAG,CAAC,CAAS,EAAE,CAAS;QACpB,OAAO,CAAC,GAAG,CAAC,CAAC;IACjB,CAAC;CACJ;AAJD,oBAIC"}
+{"version":3,"file":"ptui.js","sourceRoot":"","sources":["../src/ptui.ts"],"names":[],"mappings":";;;AAAA,MAAa,IAAI;IACf,GAAG,CAAC,CAAS,EAAE,CAAS;QACtB,OAAO,CAAC,GAAG,CAAC,CAAC;IACf,CAAC;CACF;AAJD,oBAIC"}
